@@ -2,6 +2,8 @@
 
 Welcome to the Doubtbot AI repository! 🚀 This project is a chatbot powered by Gemini AI, built using React (TypeScript) for the frontend and Node.js for the backend. It provides intelligent and interactive conversations with users.
 
+visit now :- https://doubtbot.netlify.app/
+
 🌟 Features
 
 🤖 AI-powered chatbot using Gemini AI
@@ -82,11 +84,14 @@ Push the changes: git push origin feature-branch
 
 Open a Pull Request
 
+![giti](https://github.com/user-attachments/assets/2086a053-8e43-447f-aa87-4afebe1538f8)
+
+
 
 📬 Contact
 
 For any questions or suggestions, feel free to open an issue or reach out at dev.om@outlook.com
-![image](https://github.com/user-attachments/assets/9df1532e-d112-4639-8e32-8b57cf7f0f26)
 
 
-visit now :- https://doubtbot.netlify.app/
+
+
